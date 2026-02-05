@@ -1,9 +1,7 @@
 <?php
-
 /**
  * Realiza una petición GET a un servicio web y devuelve los datos decodificados.
- *
- * @param string $url URL del servicio web.
+  * @param string $url URL del servicio web.
  * @return array|null Array de datos si la petición es correcta, null si falla.
  */
 function consumirApi(string $url): ?array {

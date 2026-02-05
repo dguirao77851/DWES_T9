@@ -12,8 +12,8 @@
 <nav>
     <ul>
         <li><a href="api.php">Consultar Cat Facts</a></li>
-        <li><a href="doc/index.html">Documentación PHPDoc</a></li>
-        <li><a href="tests">Pruebas JMeter</a></li>
+        <li><a href="test/index.html">Documentación PHPDoc</a></li>
+        <li><a href="test/DWES_T9_JMeter.jmx">Pruebas JMeter</a></li>
     </ul>
 </nav>
 
